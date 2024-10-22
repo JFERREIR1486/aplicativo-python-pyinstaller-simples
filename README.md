@@ -1,0 +1,1 @@
+# aplicativo-python-pyinstaller-simples
